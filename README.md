@@ -1,22 +1,5 @@
-
-
-Garbage Grouping:  
- Fine-tuning Convolutional Neural Networks for Waste Classification
-
-Friday Mishra, Junior Undergraduate  
-Major in Information Systems, Data Science  
-imishra4@wisc.edu
-
-Joel Myers, Senior Undergraduate  
-Major in Data Science  
-jcmyers3@wisc.edu
-
-Lucas Steplyk, Senior Undergraduate  
-Major in Computer Science, Data Science  
-Certificate in Mathematics  
-lsteplyk@wisc.edu
-
-Project Report
+## Garbage Grouping:  
+**This Readme is simply the project report. For a version with better formatting, check out the [ProjectReport](https://github.com/ishanmishra128/GarbageGrouping_DeepLearning_CNNs/blob/main/WasteClassificationWithCNNsProjectReport.pdf)**
 
 **1\. Abstract**  
 The waste management industry is substantially large, with market size in 2024 being over USD 1.2 Trillion.[^1] Waste management across the world is done manually, and with the growing pressure of sustainability and technology, the industry is one that would largely benefit from deep learning and AI. This project aims to create an efficient waste classification method, eliminating the need for manual labor. In this project, several pre-trained Convolutional Neural Networks (CNN) \- ResNet50, MobileNetV3, RegNetY, and MobileNetV3 \- were fine-tuned in addition to a CNN trained from scratch (simple CNN), to achieve an 88.91% accuracy on the RealWaste dataset, containing 4,752 labeled images across nine categories. The best-performing model, ResNet50, achieved an accuracy of 88.91% while being a lightweight model, demonstrating its potential for scalable, real-world waste classification to optimize the waste management industry.
